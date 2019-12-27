@@ -1,4 +1,4 @@
-# Manual-Servo-capo-rail-for-Nerdy-Gurdy
+# Manual/Servo capo rail for Nerdy-Gurdy
 
 STL view
 
